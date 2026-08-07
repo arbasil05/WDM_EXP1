@@ -54,7 +54,7 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
-## Emlpoye
+## Employee
 
 ![image](https://github.com/21005984/WDM_EXP1/assets/94748389/19cf5b72-c8b5-4204-a1a0-08dedb59ec14)
 
